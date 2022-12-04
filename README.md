@@ -1,4 +1,4 @@
-# Mint A Box
+# [Mint A Box]((https://mintabox.vercel.app/))
 MintABox is an NFT e-commerce application that allows its users to curate gift items ranging from gadgets, accessories, jewelleries and other gift items from their original creators while they connect & pay with their metamask wallet to deliver these items directly to the recipients.
 
 ### Functions:
@@ -15,7 +15,8 @@ MintABox is an NFT e-commerce application that allows its users to curate gift i
 - Hardhat
 - Solidity
 
-view the deployed project [here](https://mintabox.vercel.app/)
+### Live Project
+View the deployed project [here](https://mintabox.vercel.app/)
 
 
 ## Getting Started with MintABox Project
