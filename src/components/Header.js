@@ -46,7 +46,7 @@ const Header = ({
 
 const Container = styled.header`
   .hero-section {
-    min-height: 680px;
+    min-height: 750px;
     background: #f9f1e9;
     display: flex;
     justify-content: space-between;
