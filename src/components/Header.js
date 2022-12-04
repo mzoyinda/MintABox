@@ -97,6 +97,9 @@ const Container = styled.header`
         @media (min-width: 2000px) {
           left: 40vw;
         }
+        @media (min-width: 2500px) {
+          display: none;
+        }
       }
     }
 

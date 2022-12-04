@@ -117,6 +117,7 @@ const handleClick = () => {
 const Container = styled.nav`
 display: flex;
 position: sticky;
+max-width: 3000px;
 background: white;
 justify-content: space-between;
 align-items: center;
