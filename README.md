@@ -19,7 +19,7 @@ MintABox is an NFT e-commerce application that allows its users to curate gift i
 View the deployed project [here](https://mintabox.vercel.app/)
 
 ### More Update
-Check out Progress branch for more features (would be merged after Dec 19th..)
+Check out [Progress](https://github.com/mzoyinda/MintABox/tree/progress) branch for more features (would be merged after Dec 19th..)
 
 
 ## Getting Started with MintABox Project
